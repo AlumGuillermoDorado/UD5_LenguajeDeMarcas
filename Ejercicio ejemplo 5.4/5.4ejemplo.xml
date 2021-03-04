@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<?xml-stylesheet type="text/xsl" href="5.3_ejemplo.xsl"?>
+<?xml-stylesheet type="text/xsl" href="5.4_ejemplo.xsl"?>
 <libreria> 
     <libro> 
         <titulo>Physics-based animationg</titulo> 
@@ -46,7 +46,7 @@
         <autor>Juan Jaén</autor> 
         <editor>Liyue</editor> 
         <isbn>832-32-6421-123-6</isbn> 
-        <precio>08.00</precio>
+        <precio>8.00</precio>
         <numpaginas>150</numpaginas> 
     </libro>
     <libro> 
@@ -62,7 +62,7 @@
         <autor>Kerry Melón</autor> 
         <editor>Alfaguara</editor> 
         <isbn>978-1512303804</isbn> 
-        <precio>12.50</precio>
+        <precio>60.50</precio>
         <numpaginas>132</numpaginas>  
     </libro>
     <libro> 
